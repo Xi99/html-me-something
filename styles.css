@@ -1,0 +1,50 @@
+p {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 150px;
+    margin-left: 10px;
+    padding: 1 em;
+    font-size: 30px;
+}
+
+p.opening {
+    font-family: font-family: "Times New Roman", Times, serif;
+    color: darkblue;
+}
+
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #a4e7ff
+}
+
+img {
+    width: 100%;
+	max-width: 100%;
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    background-color: #edfdff;
+    margin-left: 10px;
+}
+
+h3 {
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+header, main, footer, article {
+    background-color: #edfdff;
+    font-size: 1.6em;
+}
+
+#sizes {
+    color: crimson
+}
